@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|d:\\commschool\\homeworks2\\homework14\\homework14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|solutionrelative:homework14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|d:\\commschool\\homeworks2\\homework14\\homework14\\3)facade\\reportfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|solutionrelative:homework14\\3)facade\\reportfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|d:\\commschool\\homeworks2\\homework14\\homework14\\3)facade\\reportsubsystems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|solutionrelative:homework14\\3)facade\\reportsubsystems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|d:\\commschool\\homeworks2\\homework14\\homework14\\2)proxypattern\\actorclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|solutionrelative:homework14\\2)proxypattern\\actorclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|d:\\commschool\\homeworks2\\homework14\\homework14\\2)proxypattern\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A83006-0625-48B5-91FE-480CDC9A17B5}|Homework14\\Homework14.csproj|solutionrelative:homework14\\2)proxypattern\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportFacade.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\3)Facade\\ReportFacade.cs",
+              "RelativeDocumentMoniker": "Homework14\\3)Facade\\ReportFacade.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\3)Facade\\ReportFacade.cs",
+              "RelativeToolTip": "Homework14\\3)Facade\\ReportFacade.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T03:40:03.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportSubsystems.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\3)Facade\\ReportSubsystems.cs",
+              "RelativeDocumentMoniker": "Homework14\\3)Facade\\ReportSubsystems.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\3)Facade\\ReportSubsystems.cs",
+              "RelativeToolTip": "Homework14\\3)Facade\\ReportSubsystems.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T03:38:15.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IActor.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\2)ProxyPattern\\IActor.cs",
+              "RelativeDocumentMoniker": "Homework14\\2)ProxyPattern\\IActor.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\2)ProxyPattern\\IActor.cs",
+              "RelativeToolTip": "Homework14\\2)ProxyPattern\\IActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T03:18:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActorClasses.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\2)ProxyPattern\\ActorClasses.cs",
+              "RelativeDocumentMoniker": "Homework14\\2)ProxyPattern\\ActorClasses.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\2)ProxyPattern\\ActorClasses.cs",
+              "RelativeToolTip": "Homework14\\2)ProxyPattern\\ActorClasses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T03:19:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\Program.cs",
+              "RelativeDocumentMoniker": "Homework14\\Program.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework14\\Homework14\\Program.cs",
+              "RelativeToolTip": "Homework14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T02:36:05.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
