@@ -1,0 +1,42 @@
+﻿@model Homework15.Models.BookingModel
+
+@{
+    ViewData["Title"] = "Booking";
+}
+
+<div class="container mt-5" style="max-width: 500px;">
+    <h2 class="mb-4 text-center">Booking a doctor consultation</h2>
+
+    <form asp-action="Create" method="post" class="p-4 border rounded shadow-sm bg-light">
+        <div class="mb-3">
+            <label asp-for="FirstName" class="form-label">Name</label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label">Surname</label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Doctor" class="form-label">Doctor</label>
+            <select asp-for="Doctor" class="form-select">
+                <option value="">-- Choose Doctor --</option>
+                <option value="Dentist">Dentist </option>
+                <option value="Cardiologist">Cardiologist </option>
+                <option value="Pediatrician">Pediatrician </option>
+            </select>
+            <span asp-validation-for="Doctor" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Time" class="form-label">Time (Ex: 15:00)</label>
+            <input asp-for="Time" type="time" class="form-control" />
+            <span asp-validation-for="Time" class="text-danger small"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Book</button>
+    </form>
+</div>

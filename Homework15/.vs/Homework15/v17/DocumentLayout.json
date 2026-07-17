@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAA79112-DED3-4A62-A804-82E58204E508}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAA79112-DED3-4A62-A804-82E58204E508}|Homework15\\Homework15.csproj|solutionrelative:homework15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\bookings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\bookings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\middlewares\\bookingrestrictionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\middlewares\\bookingrestrictionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|d:\\commschool\\homeworks2\\homework15\\homework15\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67064265-BBA4-4FCD-8ACE-B1EC576724E3}|Homework15\\Homework15.csproj|solutionrelative:homework15\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +63,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bookings.json",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\bookings.json",
+              "RelativeDocumentMoniker": "Homework15\\bookings.json",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\bookings.json",
+              "RelativeToolTip": "Homework15\\bookings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-17T14:13:02.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingRestrictionMiddleware.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\middlewares\\BookingRestrictionMiddleware.cs",
+              "RelativeDocumentMoniker": "Homework15\\middlewares\\BookingRestrictionMiddleware.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\middlewares\\BookingRestrictionMiddleware.cs",
+              "RelativeToolTip": "Homework15\\middlewares\\BookingRestrictionMiddleware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T12:00:46.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Homework15\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Homework15\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T18:57:52.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingModel.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Models\\BookingModel.cs",
+              "RelativeDocumentMoniker": "Homework15\\Models\\BookingModel.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Models\\BookingModel.cs",
+              "RelativeToolTip": "Homework15\\Models\\BookingModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T18:47:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\appsettings.json",
+              "RelativeDocumentMoniker": "Homework15\\appsettings.json",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\appsettings.json",
+              "RelativeToolTip": "Homework15\\appsettings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-16T18:42:15.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Program.cs",
               "RelativeDocumentMoniker": "Homework15\\Program.cs",
@@ -30,8 +135,70 @@
               "RelativeToolTip": "Homework15\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T04:11:07.579Z",
+              "WhenOpened": "2026-07-16T18:42:13.286Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "Homework15\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "Homework15\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T12:13:32.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework15\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Homework15\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T12:10:28.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework15\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Homework15\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-16T18:42:52.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Homework15\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Homework15\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-16T18:42:57.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Homework15\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework15\\Homework15\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Homework15\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T18:42:44.623Z"
             }
           ]
         }
