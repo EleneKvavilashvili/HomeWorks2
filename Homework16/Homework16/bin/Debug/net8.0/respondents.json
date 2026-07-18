@@ -1,0 +1,54 @@
+[
+  {
+    "CreateDate": "2026-07-18T00:02:55.839Z",
+    "Firstname": "Elene",
+    "Lastname": "Kvavilashvili",
+    "JobPosition": "Developer",
+    "Salary": 10000,
+    "WorkExperience": 2,
+    "PersonAddress": {
+      "Country": "string",
+      "City": "string",
+      "HomeNumber": "string"
+    }
+  },
+  {
+    "CreateDate": "2026-07-18T00:08:46.671Z",
+    "Firstname": "Elo",
+    "Lastname": "Kvav",
+    "JobPosition": "Frontend",
+    "Salary": 300,
+    "WorkExperience": 1,
+    "PersonAddress": {
+      "Country": "string",
+      "City": "string",
+      "HomeNumber": "string"
+    }
+  },
+  {
+    "CreateDate": "2026-07-18T00:02:55.839Z",
+    "Firstname": "E",
+    "Lastname": "Kva",
+    "JobPosition": "doctor",
+    "Salary": 3000,
+    "WorkExperience": 4,
+    "PersonAddress": {
+      "Country": "string",
+      "City": "string",
+      "HomeNumber": "string"
+    }
+  },
+  {
+    "CreateDate": "2026-07-18T00:02:55.839Z",
+    "Firstname": "m",
+    "Lastname": "mj",
+    "JobPosition": "unemployed",
+    "Salary": 100,
+    "WorkExperience": 5,
+    "PersonAddress": {
+      "Country": "string",
+      "City": "string",
+      "HomeNumber": "string"
+    }
+  }
+]
