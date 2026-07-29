@@ -12,7 +12,7 @@ namespace Homework16.Models
 
             RuleFor(p => p.Lastname).NotEmpty().WithMessage("Everyone has a surname.").MaximumLength(50).WithMessage("Surname is too long.");
 
-            RuleFor(p => p.Firstname).NotEmpty().WithMessage("Required to specify employment.").MaximumLength(50).WithMessage("Position is too long.");
+            RuleFor(p => p.JobPosition).NotEmpty().WithMessage("Required to specify employment.").MaximumLength(50).WithMessage("Position is too long.");
 
             RuleFor(p => p.Salary).ExclusiveBetween(0, 10000.01).WithMessage("Out of tax bracket.");
 

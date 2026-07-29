@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Migrations\\20260729232106_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework19\\Migrations\\20260729232106_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|solutionrelative:homework19\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|solutionrelative:homework19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\context\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|solutionrelative:homework19\\context\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|solutionrelative:homework19\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|solutionrelative:homework19\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\validators\\addressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|solutionrelative:homework19\\validators\\addressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9661FB22-96DB-4A39-960E-80CA80D65A92}|Homework19\\Homework19.csproj|solutionrelative:homework19\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260729232106_InitialCreate.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Migrations\\20260729232106_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Homework19\\Migrations\\20260729232106_InitialCreate.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Migrations\\20260729232106_InitialCreate.cs",
+              "RelativeToolTip": "Homework19\\Migrations\\20260729232106_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:21:07.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Homework19\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Homework19\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAswGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:43:22.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Program.cs",
+              "RelativeDocumentMoniker": "Homework19\\Program.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Program.cs",
+              "RelativeToolTip": "Homework19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:28:55.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonContext.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Context\\PersonContext.cs",
+              "RelativeDocumentMoniker": "Homework19\\Context\\PersonContext.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Context\\PersonContext.cs",
+              "RelativeToolTip": "Homework19\\Context\\PersonContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:13:03.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonValidator.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Validators\\PersonValidator.cs",
+              "RelativeDocumentMoniker": "Homework19\\Validators\\PersonValidator.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Validators\\PersonValidator.cs",
+              "RelativeToolTip": "Homework19\\Validators\\PersonValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:08:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressValidator.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Validators\\AddressValidator.cs",
+              "RelativeDocumentMoniker": "Homework19\\Validators\\AddressValidator.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Validators\\AddressValidator.cs",
+              "RelativeToolTip": "Homework19\\Validators\\AddressValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T22:03:24.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Homework19\\Models\\Person.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Models\\Person.cs",
+              "RelativeToolTip": "Homework19\\Models\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T21:57:33.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Homework19\\Models\\Address.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Models\\Address.cs",
+              "RelativeToolTip": "Homework19\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T20:50:52.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
