@@ -15,10 +15,6 @@
       "RelativeMoniker": "D:0:0:{AC19D112-E7A1-B8BD-48F4-D848BF8356CA}|Homework19\\Homework19.csproj|solutionrelative:homework19\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC19D112-E7A1-B8BD-48F4-D848BF8356CA}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\homework19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AC19D112-E7A1-B8BD-48F4-D848BF8356CA}|Homework19\\Homework19.csproj|solutionrelative:homework19\\homework19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC19D112-E7A1-B8BD-48F4-D848BF8356CA}|Homework19\\Homework19.csproj|d:\\commschool\\homeworks2\\homework19\\homework19\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC19D112-E7A1-B8BD-48F4-D848BF8356CA}|Homework19\\Homework19.csproj|solutionrelative:homework19\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,24 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Homework19",
-              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Homework19.csproj",
-              "RelativeDocumentMoniker": "Homework19\\Homework19.csproj",
-              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Homework19.csproj",
-              "RelativeToolTip": "Homework19\\Homework19.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-05T13:22:32.247Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -85,7 +68,7 @@
               "RelativeDocumentMoniker": "Homework19\\Properties\\launchSettings.json",
               "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Properties\\launchSettings.json",
               "RelativeToolTip": "Homework19\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-30T17:49:54.32Z",
               "EditorCaption": ""
@@ -98,14 +81,14 @@
               "RelativeDocumentMoniker": "Homework19\\appsettings.json",
               "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\appsettings.json",
               "RelativeToolTip": "Homework19\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-30T17:20:37.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "20260729232106_InitialCreate.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Migrations\\20260729232106_InitialCreate.cs",
               "RelativeDocumentMoniker": "Homework19\\Migrations\\20260729232106_InitialCreate.cs",
@@ -117,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PersonController.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Homework19\\Controllers\\PersonController.cs",
@@ -142,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "PersonContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Migrations\\PersonContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Homework19\\Migrations\\PersonContextModelSnapshot.cs",
@@ -154,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "PersonContext.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Context\\PersonContext.cs",
               "RelativeDocumentMoniker": "Homework19\\Context\\PersonContext.cs",
@@ -166,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "PersonValidator.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Validators\\PersonValidator.cs",
               "RelativeDocumentMoniker": "Homework19\\Validators\\PersonValidator.cs",
@@ -178,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AddressValidator.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Validators\\AddressValidator.cs",
               "RelativeDocumentMoniker": "Homework19\\Validators\\AddressValidator.cs",
@@ -190,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Homework19\\Models\\Person.cs",
@@ -202,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Address.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework19\\Homework19\\Models\\Address.cs",
               "RelativeDocumentMoniker": "Homework19\\Models\\Address.cs",
