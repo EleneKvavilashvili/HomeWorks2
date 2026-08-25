@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LoanApi.Tests/LoanApi.Tests.csproj" Id="adcda3f4-c5c2-4a8e-a8bc-1b74bfcdceb2" />
+  <Project Path="LoanAPI/LoanAPI.csproj" />
+</Solution>

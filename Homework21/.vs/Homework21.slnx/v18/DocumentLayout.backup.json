@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\homework21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\homework21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +15,24 @@
       "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\validators\\addressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\validators\\addressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|d:\\commschool\\homeworks2\\homework21\\homework21\\homework21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA0E95DE-3B71-3F74-820F-B20D73B66E97}|Homework21\\Homework21.csproj|solutionrelative:homework21\\homework21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +42,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Homework21\\Services\\UserService.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Services\\UserService.cs",
+              "RelativeToolTip": "Homework21\\Services\\UserService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T15:54:11.255Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Homework21\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Homework21\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T00:35:05.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressValidator.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Validators\\AddressValidator.cs",
+              "RelativeDocumentMoniker": "Homework21\\Validators\\AddressValidator.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Validators\\AddressValidator.cs",
+              "RelativeToolTip": "Homework21\\Validators\\AddressValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T00:00:10.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Homework21\\Models\\User.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Models\\User.cs",
+              "RelativeToolTip": "Homework21\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T20:12:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Program.cs",
+              "RelativeDocumentMoniker": "Homework21\\Program.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Program.cs",
+              "RelativeToolTip": "Homework21\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T13:26:59.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Helpers\\AppSettings.cs",
               "RelativeDocumentMoniker": "Homework21\\Helpers\\AppSettings.cs",
               "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Helpers\\AppSettings.cs",
               "RelativeToolTip": "Homework21\\Helpers\\AppSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-08T15:54:35.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Homework21\\Services\\UserService.cs",
-              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Services\\UserService.cs*",
-              "RelativeToolTip": "Homework21\\Services\\UserService.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwCsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T15:54:11.255Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\appsettings.json",
+              "RelativeDocumentMoniker": "Homework21\\appsettings.json",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\appsettings.json",
+              "RelativeToolTip": "Homework21\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-15T20:29:57.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Homework21.csproj",
               "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Homework21.csproj",
               "RelativeDocumentMoniker": "Homework21\\Homework21.csproj",
@@ -72,33 +149,7 @@
               "RelativeToolTip": "Homework21\\Homework21.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-08T15:29:09.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Homework21\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Homework21\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAUwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T00:35:05.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Program.cs",
-              "RelativeDocumentMoniker": "Homework21\\Program.cs",
-              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\Homework21\\Homework21\\Program.cs",
-              "RelativeToolTip": "Homework21\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T13:26:59.795Z"
+              "WhenOpened": "2026-08-08T15:29:09.774Z"
             }
           ]
         }

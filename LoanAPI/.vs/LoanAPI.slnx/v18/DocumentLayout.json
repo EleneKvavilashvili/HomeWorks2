@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi.tests\\controllertests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|solutionrelative:loanapi.tests\\controllertests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi.tests\\controllertests\\loancontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|solutionrelative:loanapi.tests\\controllertests\\loancontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi.tests\\servicetests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|solutionrelative:loanapi.tests\\servicetests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi.tests\\servicetests\\logservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|solutionrelative:loanapi.tests\\servicetests\\logservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi.tests\\servicetests\\loanservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCDA3F4-C5C2-4A8E-A8BC-1B74BFCDCEB2}|LoanApi.Tests\\LoanApi.Tests.csproj|solutionrelative:loanapi.tests\\servicetests\\loanservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\validators\\loanvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\validators\\loanvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\services\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\services\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\models\\actionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\models\\actionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|d:\\commschool\\homeworks2\\loanapi\\loanapi\\context\\loanapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DA89E-FF1B-CE3B-1BED-742B76E7A56A}|LoanAPI\\LoanAPI.csproj|solutionrelative:loanapi\\context\\loanapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ControllerTests\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "LoanApi.Tests\\ControllerTests\\UserControllerTests.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ControllerTests\\UserControllerTests.cs",
+              "RelativeToolTip": "LoanApi.Tests\\ControllerTests\\UserControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:21:58.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanControllerTests.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ControllerTests\\LoanControllerTests.cs",
+              "RelativeDocumentMoniker": "LoanApi.Tests\\ControllerTests\\LoanControllerTests.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ControllerTests\\LoanControllerTests.cs",
+              "RelativeToolTip": "LoanApi.Tests\\ControllerTests\\LoanControllerTests.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAowJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:21:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ServiceTests\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "LoanApi.Tests\\ServiceTests\\UserServiceTests.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ServiceTests\\UserServiceTests.cs",
+              "RelativeToolTip": "LoanApi.Tests\\ServiceTests\\UserServiceTests.cs",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAowMYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:21:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LoanAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:18:34.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Services\\UserService.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "LoanAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:20:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Controllers\\LoanController.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LoanAPI\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:18:23.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogServiceTests.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ServiceTests\\LogServiceTests.cs",
+              "RelativeDocumentMoniker": "LoanApi.Tests\\ServiceTests\\LogServiceTests.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ServiceTests\\LogServiceTests.cs",
+              "RelativeToolTip": "LoanApi.Tests\\ServiceTests\\LogServiceTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:21:39.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanServiceTests.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ServiceTests\\LoanServiceTests.cs",
+              "RelativeDocumentMoniker": "LoanApi.Tests\\ServiceTests\\LoanServiceTests.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanApi.Tests\\ServiceTests\\LoanServiceTests.cs",
+              "RelativeToolTip": "LoanApi.Tests\\ServiceTests\\LoanServiceTests.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAowFgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:21:31.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Program.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Program.cs",
+              "RelativeToolTip": "LoanAPI\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:21:22.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Mapping.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Mapping.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Mapping.cs",
+              "RelativeToolTip": "LoanAPI\\Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:21:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LoanAPI\\appsettings.json",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\appsettings.json",
+              "RelativeToolTip": "LoanAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-25T12:20:59.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Validators\\UserValidator.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "LoanAPI\\Validators\\UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:20:48.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoanValidator.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Validators\\LoanValidator.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Validators\\LoanValidator.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Validators\\LoanValidator.cs",
+              "RelativeToolTip": "LoanAPI\\Validators\\LoanValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:20:41.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Services\\LogService.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\LogService.cs",
+              "RelativeToolTip": "LoanAPI\\Services\\LogService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:20:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Services\\LoanService.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\LoanService.cs",
+              "RelativeToolTip": "LoanAPI\\Services\\LoanService.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAswKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:20:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Services\\IUserService.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\IUserService.cs",
+              "RelativeToolTip": "LoanAPI\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:20:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\ILogService.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Services\\ILogService.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\ILogService.cs",
+              "RelativeToolTip": "LoanAPI\\Services\\ILogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:20:03.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\ILoanService.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Services\\ILoanService.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Services\\ILoanService.cs",
+              "RelativeToolTip": "LoanAPI\\Services\\ILoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:19:54.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Models\\User.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Models\\User.cs",
+              "RelativeToolTip": "LoanAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:19:42.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Models\\Loan.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Models\\Loan.cs",
+              "RelativeToolTip": "LoanAPI\\Models\\Loan.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:19:36.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorLog.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Models\\ErrorLog.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Models\\ErrorLog.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Models\\ErrorLog.cs",
+              "RelativeToolTip": "LoanAPI\\Models\\ErrorLog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:19:29.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActionLog.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Models\\ActionLog.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Models\\ActionLog.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Models\\ActionLog.cs",
+              "RelativeToolTip": "LoanAPI\\Models\\ActionLog.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:19:21.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Helpers\\AppSettings.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Helpers\\AppSettings.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Helpers\\AppSettings.cs",
+              "RelativeToolTip": "LoanAPI\\Helpers\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:19:07.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateDTO.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\DTOs\\UpdateDTO.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\DTOs\\UpdateDTO.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\DTOs\\UpdateDTO.cs",
+              "RelativeToolTip": "LoanAPI\\DTOs\\UpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:18:52.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "LoanAPI\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:18:45.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoanAPIContext.cs",
+              "DocumentMoniker": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Context\\LoanAPIContext.cs",
+              "RelativeDocumentMoniker": "LoanAPI\\Context\\LoanAPIContext.cs",
+              "ToolTip": "D:\\COMMSCHOOL\\HomeWorks2\\LoanAPI\\LoanAPI\\Context\\LoanAPIContext.cs",
+              "RelativeToolTip": "LoanAPI\\Context\\LoanAPIContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:17:34.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
